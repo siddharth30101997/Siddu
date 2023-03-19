@@ -3,14 +3,13 @@ all girls are not my sister.
 and i am here to own my kingdom.
 
 public void m1(){
-
+   ishkjdijfd
+dfjodfidfj
+bduhffj
 }
-<<<<<<< HEAD
 
-public void m2(){}
-=======
 public static void main(String args[])
 {
     System.out.println("Hello");
 }
->>>>>>> c628a9480dbea30a7f72c652a81e56f6105d27dd
+
