@@ -5,3 +5,5 @@ and i am here to own my kingdom.
 public void m1(){
 
 }
+
+public void m2(){}
